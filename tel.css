@@ -154,4 +154,7 @@ z-index: 2;
         margin-right: auto;
         margin-left: auto;
     }
+    #tel{
+        width:250px
+    }
   }
